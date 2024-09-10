@@ -86,3 +86,35 @@ footer {
 .footer-text {
     color: #666;
 }
+
+/* New styling for assignments section */
+article {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+article h3 {
+    font-size: 20px;
+    color: #2a5d34;
+    margin-bottom: 10px;
+}
+
+article p {
+    font-size: 16px;
+    color: #424242;
+    margin-bottom: 10px;
+}
+
+article a {
+    color: #3e8563;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+article a:hover {
+    color: #2a5d34;
+    text-decoration: underline;
+}
